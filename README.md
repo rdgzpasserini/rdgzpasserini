@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Lenguajes-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,vscode,git" />
-    <img src="https://skillicons.dev/icons?i=java,eclipse,mysql,cs,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,vscode,git,java,eclipse,mysql,cs,visualstudio,bash,vim,linux" />
+    <!--<img src="https://skillicons.dev/icons?i=java,eclipse,mysql,cs,visualstudio" /><br>-->
 </div>
 
 <br/>
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<!--<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>-->
 </div>
 
 <br/>
