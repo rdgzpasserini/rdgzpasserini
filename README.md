@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-<hr/>
+<!--<hr/>
 
 <div align="center">
   <h2>🐍 Mis Contribuciones 🐍</h2>
@@ -67,12 +67,12 @@ Here are some ideas to get you started:
 
 <img alt="snake eating my contributions" src="https://github.com/rdgzpasserini/rdgzpasserini/blob/output/github-contribution-grid-snake.svg" />
 
-<!--<img alt="snake eating my contributions" src="https://github.com/rdgzpasserini/rdgzpasserini/blob/output/github-contribution-grid-snake.svg" />-->  
-<!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rdgzpasserini/rdgzpasserini/output/github-contribution-grid-snake.svg" />-->
+<img alt="snake eating my contributions" src="https://github.com/rdgzpasserini/rdgzpasserini/blob/output/github-contribution-grid-snake.svg" />  
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rdgzpasserini/rdgzpasserini/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
-<hr/>
+<hr/>-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
