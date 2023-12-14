@@ -64,7 +64,8 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 Mis Contribuciones 🐍</h2>
   <br>
-![snake gif](https://github.com/rdgzpasserini/rdgzpasserini/blob/output/github-contribution-grid-snake.gif)
+
+<img alt="snake eating my contributions" src="https://github.com/rdgzpasserini/rdgzpasserini/blob/output/github-contribution-grid-snake.svg" />
 
 <!--<img alt="snake eating my contributions" src="https://github.com/rdgzpasserini/rdgzpasserini/blob/output/github-contribution-grid-snake.svg" />-->  
 <!--<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rdgzpasserini/rdgzpasserini/output/github-contribution-grid-snake.svg" />-->
