@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 Actualmente estoy trabajando en **Air Europa**
+ 🔭 Actualmente estoy trabajando en **Air Europa** como Analista en el area de Producto
  
  🌱 Estoy por comenzar el tercer semestre de *Desarrollo de Aplicaciones Web*
 
