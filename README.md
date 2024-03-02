@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
  🔭 Actualmente estoy trabajando en **Air Europa** como Analista en el area de Producto
  
- 🌱 Estoy por comenzar el tercer semestre de *Desarrollo de Aplicaciones Web*
+ 🌱 Estoy cursando el tercer semestre de *Desarrollo de Aplicaciones Web*
 
 💬 Pregúntame sobre **Java, C#, PL/SQL... o cualquier cosa [aquí](https://github.com/rdgzpasserini/rdgzpasserini/issues)**
 
