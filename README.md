@@ -29,9 +29,9 @@ Here are some ideas to get you started:
  
  🔭 Actualmente estoy trabajando en **Air Europa** como Analista en el area de Producto
  
- 🌱 Estoy cursando el tercer semestre de *Desarrollo de Aplicaciones Web*
+ 🌱 Soy desarrollador de aplicacioesn web*
 
-💬 Pregúntame sobre **Java, C#, PL/SQL... o cualquier cosa [aquí](https://github.com/rdgzpasserini/rdgzpasserini/issues)**
+
 
 <!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**-->
 
