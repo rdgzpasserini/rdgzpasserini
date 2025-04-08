@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />-->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+todos!+👋;+Mi+nombre+es+Martin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+todos!+👋;Hola+todos!+👋;Hola+todos!+👋;" />
 </h1>
 
-<h3 align="center">Soy un desarrollador de aplicaciones web</h3>
+<h3 align="center">Soy desarrollador de aplicaciones web</h3>
 
 <br/>
 
