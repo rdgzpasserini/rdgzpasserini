@@ -21,15 +21,15 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+todos!+👋;+Mi+nombre+es+Martin!;" />
 </h1>
 
-<h3 align="center">Soy un apasionado desarrollador de software que vive en Mallorca</h3>
+<h3 align="center">Soy un desarrollador de aplicaciones web</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Actualmente estoy trabajando en **Air Europa** como Analista en el area de Producto
+ 🔭 Actualmente formo parte del area de Producto en Air Europa, donde trabajo como Data Analyst y colaboro también como desarrollador front-end.
  
- 🌱 Soy desarrollador de aplicacioesn web*
+ 🌱 Me apasiona crear soluciones útiles e intuitivas, transformando ideas en productos reales. Siempre busco aprender y crecer, tanto profesional como personalmente.*
 
 
 
